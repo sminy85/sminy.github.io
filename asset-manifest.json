@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.20a20f63.css",
-    "main.js": "/static/js/main.dc220424.js",
+    "main.css": "/static/css/main.cb0ccd8a.css",
+    "main.js": "/static/js/main.d308d0c1.js",
     "static/js/453.7ef3c0a8.chunk.js": "/static/js/453.7ef3c0a8.chunk.js",
     "static/media/ai3D.gif": "/static/media/ai3D.31095532850a6c5e02b5.gif",
     "static/media/ai3D2.gif": "/static/media/ai3D2.bb901b6dbc55da07f6c6.gif",
@@ -39,6 +39,7 @@
     "static/media/IMG_2067.jpg": "/static/media/IMG_2067.1e832fd26a89aa18a69f.jpg",
     "static/media/IMG_2071.jpg": "/static/media/IMG_2071.5c7ca7d799df534297b1.jpg",
     "static/media/health3D2.png": "/static/media/health3D2.d7530f60f1cea589ebe4.png",
+    "static/media/iconsVelog.png": "/static/media/iconsVelog.9855f098945d5390f649.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -51,12 +52,12 @@
     "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "static/media/icons8-tensorflow.svg": "/static/media/icons8-tensorflow.d978d6b0a450f5416ab4aa62d3795a0c.svg",
-    "main.20a20f63.css.map": "/static/css/main.20a20f63.css.map",
-    "main.dc220424.js.map": "/static/js/main.dc220424.js.map",
+    "main.cb0ccd8a.css.map": "/static/css/main.cb0ccd8a.css.map",
+    "main.d308d0c1.js.map": "/static/js/main.d308d0c1.js.map",
     "453.7ef3c0a8.chunk.js.map": "/static/js/453.7ef3c0a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a20f63.css",
-    "static/js/main.dc220424.js"
+    "static/css/main.cb0ccd8a.css",
+    "static/js/main.d308d0c1.js"
   ]
 }
